@@ -2,7 +2,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Solarized/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -93,15 +93,18 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"SublimeLinter-pep8",
-		"SublimeLinter-flake8",
-		"SublimeLinter-pep257",
-		"SublimeLinter-jshint",
-		"ARM Assembly",
-		"SublimeGDB",
-		"VintageEx",
+		"Markdown",
 		"SublimeLinter",
-		"Vintage"
+		"Vintage",
+		"SublimeGDB",
+		"ARM Assembly",
+		"Indent XML",
+		"SublimeLinter-pep257",
+		"VintageEx",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"HTML5",
+		"SublimeLinter-pep8"
 	],
 	"margin": 0,
 	"rulers":
